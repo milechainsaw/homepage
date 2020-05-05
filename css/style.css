@@ -1,0 +1,38 @@
+html, body {
+    height: 100%;
+    font-family: sans-serif;
+    text-align: left;
+    color: #444444;
+}
+.main {
+    height: 100%;
+    width: 100%;
+    display: table;
+}
+.wrapper {
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+}
+.logoTitle {
+	font-size: 2em;
+	font-weight: bold;
+}
+.logoSubtitle{
+	font-size: 1.5em;
+}
+.logoBox{
+	margin: 5%;
+	padding-left: 5%;
+	width: 40%;
+	border-left: 2px solid black;
+}
+.punchline{
+	font-style: italic;
+	margin-top: 1em;
+	font-size: 1em;
+}
+.bottomline{
+	margin-top: 7%;
+	font-size:  2vw;
+}
